@@ -2,7 +2,7 @@
 
 Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltime/data-marketing-and-analytics/)
 
-- Access this content at: https://github.com/w4bo/2023-bbs-fbi
+- Access this content at: https://github.com/w4bo/2024-bbs-fbi
 
 ![image](https://user-images.githubusercontent.com/18005592/235678122-cc2992d4-2113-42aa-aa83-a641c77e85e9.png)
 
