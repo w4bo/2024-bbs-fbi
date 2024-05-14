@@ -23,14 +23,14 @@ Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltim
 
 | When | Who | What |
 | -    | -    | -    |
-| Day 1 (May 3, 2023; 10.00 - 13.00)     | Matteo Francia    | Introduction to Business Intelligence |
-| Day 2 (May 10, 2022; h 14.00 - 17.00)  | Matteo Francia    | From BI to analytics |
-| Day 3 (May 24, 2024; h 14.00 - 18.00)  | Matteo Francia    | Data Platforms and Applications |
-| Day 4 (May 30, 2023; h 14.00 - 17.00)  | Enrico Gallinucci | Social Business Intelligence |
-| Day 5 (June 7, 2023; h 14.00 - 18.00)  | Enrico Gallinucci | OLAP Analyses with Power BI |
-| Day 6 (June 13, 2023; h 10:00 - 13:00) | Enrico Gallinucci | OLAP Analyses with Power BI |
-| Day 7 (July 11, 2023; h 14.00 – 16.00) | Matteo Francia    | Exam |
+| Day 1 (May 17, 2024 – h 14.00 – 17.30)     | Matteo Francia    | Introduction to Business Intelligence |
+| Day 2 (May 22, 2024 – h 14.00 – 17.30)  | Matteo Francia    | From BI to analytics |
+| Day 3 (May 29, 2024 – h 14.00 - 17.00)  | Matteo Francia    | Data Platforms and Applications |
+| Day 4 (June 05, 2024 – h 9.30 - 13.00)  | Enrico Gallinucci | OLAP Analyses with Power BI |
+| Day 5 (June 13, 2024 – h 14.30 - 18.00)  | Enrico Gallinucci | OLAP Analyses with Power BI |
+| Day 6 (June 26, 2024 – h 9.30 – 12.30) | Enrico Gallinucci | OLAP Analyses with Power BI |
+| Day 7 (July 09, 2024 – h 10.00 – 12.00) | Matteo Francia    | Exam |
 
 Exam:
-- Written test (1h): Questions related to the concepts introduced in the course (mainly the first 4 lessons); questions will be both open-ended and closed-ended. 
+- Written test (1h): Questions related to the concepts introduced in the course (mainly the first 3 lessons); questions will be both open-ended and closed-ended. 
 - Practical test (0.5h): students will be asked to perform an OLAP query on Power BI.
