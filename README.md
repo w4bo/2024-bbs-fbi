@@ -32,5 +32,5 @@ Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltim
 | Day 7 (July 09, 2024 – h 10.00 – 12.00) | Matteo Francia    | Exam |
 
 Exam:
-- Written test (1h): Questions related to the concepts introduced in the course (mainly the first 3 lessons); questions will be both open-ended and closed-ended. 
-- Practical test (0.5h): students will be asked to perform an OLAP query on Power BI.
+- Written test (1h): Questions related to the concepts introduced in the course (mainly the first 3 lessons); questions can be both open-ended and closed-ended. 
+- Practical test (1h): Students will be asked to perform OLAP queries on Power BI.
