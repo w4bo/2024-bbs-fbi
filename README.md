@@ -19,6 +19,12 @@ Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltim
 
 **Teaching Method(s):** The theoretical background and the discussion of the principles are introduced in class with presentation of slides and stimulating discussions with the students. OLAP analysis with Power BI is applied with lab exercises. A final report will be discussed in class. 
 
+## Books
+
+- Business intelligence: Golfarelli, Matteo, and Stefano Rizzi. **Data warehouse design: Modern principles and methodologies**. McGraw-Hill, Inc., 2009.
+- Data Mining: Tan, Pang-Ning, Michael Steinbach, and Vipin Kumar. **Introduction to data mining**. Pearson Education India, 2016.
+- (Pratical) Machine learning: Géron, Aurélien. **Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow**. " O'Reilly Media, Inc.", 2022.
+
 ## Programme
 
 | When | Who | What |
