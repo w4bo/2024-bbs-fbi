@@ -22,8 +22,8 @@ Master in [Data Marketing and Analytics](https://www.bbs.unibo.eu/master-fulltim
 ## Books
 
 - Business intelligence: Golfarelli, Matteo, and Stefano Rizzi. **Data warehouse design: Modern principles and methodologies**. McGraw-Hill, Inc., 2009.
-- Data Mining: Tan, Pang-Ning, Michael Steinbach, and Vipin Kumar. **Introduction to data mining**. Pearson Education India, 2016.
-- (Pratical) Machine learning: Géron, Aurélien. **Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow**. " O'Reilly Media, Inc.", 2022.
+- Data Mining and Machine Learning: Tan, Pang-Ning, Michael Steinbach, and Vipin Kumar. **Introduction to data mining**. Pearson Education India, 2016.
+- (Pratical) Machine learning: Géron, Aurélien. **Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow**. O'Reilly Media, Inc.", 2022.
 
 ## Programme
 
